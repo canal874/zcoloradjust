@@ -1,0 +1,7 @@
+Package: zcoloradjust
+Version: 1.0
+Priority: optional
+Section: Qtopia
+Maintainer: Juro Soga (VFF04555@nifty.ne.jp)
+Architecture: arm
+Description: A color adjusting software for painttools

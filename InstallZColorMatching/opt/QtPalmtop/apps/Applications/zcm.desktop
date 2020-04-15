@@ -1,0 +1,7 @@
+[Desktop Entry]
+Comment = A color adjusting software for painttools
+Exec = zcm
+Icon = zcm2.png
+Name = ZColorAdjust
+Type = Application
+Display = 640x480/144dpi,480x640/144dpi
